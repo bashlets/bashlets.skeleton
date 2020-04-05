@@ -1,5 +1,3 @@
-# bashlets::util::skeleton
+# bashlets-skeleton
 
-[![Build Status](https://travis-ci.org/bashlets/bashlets.util.skeleton.svg?branch=master)](https://travis-ci.org/bashlets/bashlets.util.skeleton)
-
-Skeleton package.
+Bashlets skeleton package.
